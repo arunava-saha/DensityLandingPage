@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { F1v1Svg, V1Svg, V2Svg, V3Svg } from "../../images";
+import { F1v1Svg } from "../../images";
 
 const Career1 = styled.b`
   position: relative;

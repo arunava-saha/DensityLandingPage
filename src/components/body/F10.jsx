@@ -41,16 +41,6 @@ const TradeMorePayContainer = styled.b`
 const ItsTimeTo = styled.p`
   margin: 0;
 `;
-const FrameIcon10 = styled.img`
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  width: 279.96px;
-  height: 239.01px;
-  overflow: hidden;
-  opacity: 0.55;
-  mix-blend-mode: multiply;
-`;
 const TradeNow = styled.b`
   position: relative;
   text-transform: uppercase;
@@ -85,20 +75,6 @@ const FrameChild30 = styled.img`
   left: 30px;
   width: 103.69px;
   height: 90.4px;
-`;
-const TextureIcon8 = styled.img`
-  position: absolute;
-  height: 101.24%;
-  width: 100%;
-  top: 0%;
-  right: 0%;
-  bottom: -1.24%;
-  left: 0%;
-  max-width: 100%;
-  overflow: hidden;
-  max-height: 100%;
-  object-fit: cover;
-  mix-blend-mode: overlay;
 `;
 const FrameParent36 = styled.div`
   position: relative;

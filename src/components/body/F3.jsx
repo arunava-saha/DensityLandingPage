@@ -1,12 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import {
-  F3imgPng,
-  F3FrameSvg,
-  F3img1Png,
-  F3f1v1,
-  F3f1v1Svg,
-} from "../../images";
+import { F3imgPng, F3FrameSvg, F3img1Png } from "../../images";
 
 const The = styled.span``;
 const PayLess = styled.span`
